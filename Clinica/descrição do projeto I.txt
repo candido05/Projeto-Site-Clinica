@@ -1,4 +1,0 @@
-site com flexbox e css semanitco
-
-- fazer alguns ajustes de reponsividade nesse projeto antes 
-  de coloca-lo github.
